@@ -1,4 +1,4 @@
-# Text Classification : text language classification system
+# Text Classification : Text Language Classification System
 
 ## Background Information
 You work as a Computational Linguist for a Global firm, collaborating with Engineers and
